@@ -2,6 +2,7 @@
   <div id="app">
      <h1>你好</h1>
      <h1>sbf</h1>
+     <h1>wql</h1>
     <img src="./assets/logo.png">
     <router-view/>
   </div>
